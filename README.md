@@ -91,3 +91,123 @@ Mental health matters just as much as physical health and professional success. 
 Designed by Payel Thakur
 
 Graphic Design Project | Mental Health Awareness
+GREEN_TOMORROW_POSTER_TASK
+
+Environmental Awareness Poster: Green Tomorrow
+
+A promotional event poster designed for Green Steps Club to raise awareness about environmental protection and encourage people to take responsibility for creating a greener and more sustainable future.
+
+---
+
+📌 Poster Overview
+
+- Organization Name: Green Steps Club
+- Event Title: Green Tomorrow
+- Event Type: Environmental Awareness Drive
+- Tagline: One Planet. One Responsibility
+- Event Date: November 2, 2026
+- Day: Monday
+- Event Time: 10:00 AM
+- Venue: City Community Hall
+- Designed By: Payel Thakur
+- Design Tool: Canva
+- Visual Theme: Nature-inspired, eco-friendly, clean, and modern design using different shades of green with a soft cream background.
+
+---
+
+📝 Text Content & Details
+
+Header
+
+GREEN STEPS CLUB PRESENTS
+
+Main Heading
+
+GREEN TOMORROW
+
+Tagline
+
+One Planet. One Responsibility
+
+Event Highlight
+
+ENVIRONMENTAL AWARENESS DRIVE
+
+Event Details
+
+- Date: 2 November 2026
+- Time: 10:00 AM
+- Venue: City Community Hall
+
+Supporting Message
+
+Small actions make a big impact.
+
+Call to Action
+
+BE PART OF THE CHANGE
+
+Key Environmental Goals
+
+- Cleaner Environment: Encourage eco-friendly habits and reduce pollution.
+- Greener Communities: Promote sustainable practices and community participation.
+- A Brighter Future: Protect natural resources for future generations.
+
+---
+
+🎨 Design Specifications
+
+- Primary Colours: Dark Green, Olive Green, Leaf Green, and Cream.
+- Typography: Bold brush-style fonts for the main heading, clean sans-serif fonts for event details, and handwritten script fonts for supporting messages.
+- Layout: Vertical event poster with a balanced arrangement of text, illustrations, and event information.
+- Main Visual: A globe representing Earth held carefully in human hands and surrounded by green leaves.
+- Graphic Elements:
+  - Green abstract shapes in the top-right corner.
+  - Decorative botanical leaves in the top-right and bottom-left corners.
+  - Brushstroke-style green backgrounds to highlight the event title and call to action.
+  - Minimal icons for the date, time, and venue.
+  - Environmental symbols representing sustainability and recycling.
+  - A soft cream background to maintain readability and visual balance.
+
+---
+
+💡 Design Objective
+
+The objective of this poster is to spread environmental awareness and motivate people to participate in sustainable activities. The globe surrounded by leaves and supported by human hands symbolizes our shared responsibility to protect the planet.
+
+The poster uses nature-inspired colours, bold typography, and clear event details to create an attractive and informative design.
+
+---
+
+🛠️ Tools & Techniques
+
+- Canva for poster creation and layout.
+- Colour coordination using nature-inspired shades.
+- Typography pairing and visual hierarchy.
+- Image placement and composition.
+- Decorative botanical elements and environmental icons.
+- Contrast and spacing for improved readability.
+
+---
+
+📷 Poster Preview
+
+The final design features the heading "Green Tomorrow," an environmental awareness drive announcement, event information, and a central illustration of Earth held in human hands surrounded by leaves.
+
+The poster encourages individuals to take small steps toward a cleaner environment, greener communities, and a brighter future.
+
+---
+
+🌱 Key Takeaway
+
+Protecting our planet starts with small actions. By working together and adopting sustainable habits, we can create a cleaner, greener, and healthier future.
+
+One Planet. One Responsibility. Be Part of the Change.
+
+---
+
+👩‍💻 Author
+
+Designed by Payel Thakur
+
+Graphic Design Project | Environmental Awareness
