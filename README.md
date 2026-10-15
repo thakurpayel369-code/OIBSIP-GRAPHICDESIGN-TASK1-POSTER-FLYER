@@ -1,3 +1,4 @@
+
 # OIBSIP-GRAPHICDESIGN-TASK1-POSTER-FLYER
 MENTAL_HEALTH_AWARENESS_POSTER
 
@@ -24,6 +25,11 @@ A mental health awareness poster designed to spread positivity, encourage emotio
 Main Heading
 
 MENTAL HEALTH MATTERS
+
+
+<img width="1535" height="813" alt="Screenshot 2026-10-15 223058" src="https://github.com/user-attachments/assets/1977d7af-30d2-4dfc-adbb-a1320db4ad4d" />
+<img width="1532" height="813" alt="Screenshot 2026-10-15 223037" src="https://github.com/user-attachments/assets/645d01f5-2f3b-40dd-a6ee-40e94ec0794d" />
+
 
 IT'S OKAY TO NOT BE OKAY
 
